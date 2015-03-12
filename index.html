@@ -1,23 +1,190 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html>
 
-<div class="home">
+	<head>
+		<!-- Standard Meta -->
+		<meta charset="utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
-  <h1 class="page-heading">Posts</h1>
+		<link rel="image_src" type="image/jpeg" href="/img/logo.png" />
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+		<!-- Site Properities -->
+		<title>Summer</title>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+		<meta name="description" content="Summer UI Designer Home Page." />
+		<meta name="keywords" content="html5, ui, CV, resume, one page desgin" />
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+		<link rel="stylesheet" type="text/css" class="ui" href="/css/semantic.min.css">
+		<!--Animation-->
+		<link rel="stylesheet" type="text/css" class="ui" href="/css/animate.css">
+		<!--Customize-->
+		<link rel="stylesheet" type="text/css" class="ui" href="/css/index.css">
+	</head>
 
-</div>
+	<body id="index">
+		<div class="fixed top center aligned ui inverted secondary menu" data-0="position:fixed;" data-1450="opacity:1;" data-1620="opacity:0;">
+			<a href="#intro" class="active item" data-774="color:rgb(255,255,255);" data-775="color:rgb(5,5,5);" data-1549="color:rgb(5,5,5);" data-1550="color:rgb(255,255,255);">
+				<h4>HOME</h4>
+			</a>
+			<a href="#education" class="item" data-774="color:rgb(255,255,255);" data-775="color:rgb(5,5,5);" data-1549="color:rgb(5,5,5);" data-1550="color:rgb(255,255,255);">
+				<h4>EDUCATION</h4>
+			</a>
+			<a href="#works" class="item" data-774="color:rgb(255,255,255);" data-775="color:rgb(5,5,5);" data-1549="color:rgb(5,5,5);" data-1550="color:rgb(255,255,255);">
+				<h4>WORK</h4>
+			</a>
+		</div>
+		<img class="parallax third" src="/img/layer02.png">
+		<div id="intro" class="ui masthead inverted segment">
+			<div class="ui stackable page grid">
+				<div class="row">
+					<div class="eight wide column">
+						<img id="summer" class="parallax first" src="/img/layer01.png">
+					</div>
+					<div class="eight wide column">
+						<img class="parallax second" src="/img/layer03.png">
+					</div>
+				</div>
+			</div>
+		</div>
+		<div id="education" class="ui feature segment">
+			<div class="ui stackable page grid">
+				<div class="row">
+					<div class="nine wide column">
+						<!--<img class="ui big image" src="/img/layer01.png">-->
+					</div>
+				</div>
+				<div class="right floated seven wide column">
+					<img class="ui big image parallax second" src="/img/edu.png">
+				</div>
+			</div>
+		</div>
+
+		<div id="works" class="ui masthead inverted segment">
+			<div class="ui two column centered grid">
+				<div class="column">
+					<h2 class="center aligned ui inverted header">
+					  <img src="/img/avatar.png" class="ui circular image">
+					  <div class="content">
+					    Things that I'm capbale.
+					    <div class="sub header">Master of PS/AI/Axure/Flash and etc. design tools.</div>
+					  </div>
+					</h2>
+				</div>
+				<div class="row">
+					<div class="column">
+						<div class="ui segment">
+						<div class="ui divided items">
+							<div class="item">
+								<div class="image">
+									<img src="/images/wireframe/image.png">
+								</div>
+								<div class="content">
+									<a class="header">12 Years a Slave</a>
+									<div class="meta">
+										<span class="cinema">Union Square 14</span>
+									</div>
+									<div class="description">
+										<p></p>
+									</div>
+									<div class="extra">
+										<div class="ui label">IMAX</div>
+										<div class="ui label"><i class="globe icon"></i> Additional Languages</div>
+									</div>
+								</div>
+							</div>
+							<div class="item">
+								<div class="image">
+									<img src="/images/wireframe/image.png">
+								</div>
+								<div class="content">
+									<a class="header">My Neighbor Totoro</a>
+									<div class="meta">
+										<span class="cinema">IFC Cinema</span>
+									</div>
+									<div class="description">
+										<p></p>
+									</div>
+									<div class="extra">
+										<div class="ui right floated primary button">
+											Buy tickets
+											<i class="right chevron icon"></i>
+										</div>
+										<div class="ui label">Limited</div>
+									</div>
+								</div>
+							</div>
+							<div class="item">
+								<div class="image">
+									<img src="/images/wireframe/image.png">
+								</div>
+								<div class="content">
+									<a class="header">Watchmen</a>
+									<div class="meta">
+										<span class="cinema">IFC</span>
+									</div>
+									<div class="description">
+										<p></p>
+									</div>
+									<div class="extra">
+										<div class="ui right floated primary button">
+											Buy tickets
+											<i class="right chevron icon"></i>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+						</div>
+				</div>
+			</div>
+
+		</div>
+		<script src="/js/library/jquery.min.js"></script>
+		<script src="/js/jquery.waypoints.min.js"></script>
+		<script src="/js/jquery.nicescroll.min.js"></script>
+		<script src="/js/semantic.min.js"></script>
+
+		<script type="text/javascript" src="/js/skrollr.min.js"></script>
+		<script type="text/javascript">
+			var s = skrollr.init();
+			var intropoints = $('#intro').waypoint({
+				handler: function(direction) {
+					$('.secondary.menu .item').removeClass('active animated rubberBand');
+					$("[href='#intro']").addClass('active animated rubberBand');
+				}
+			});
+			var educationpoints = $('#education').waypoint({
+				handler: function(direction) {
+					$('.secondary.menu .item').removeClass('active animated rubberBand');
+					$("[href='#education']").addClass('active animated rubberBand');
+				}
+			});
+			var workpoints = $('#works').waypoint({
+				handler: function(direction) {
+					$('.secondary.menu .item').removeClass('active animated rubberBand');
+					$("[href='#works']").addClass('active animated rubberBand');
+				}
+			});
+			 $(document).ready(function() {  
+		        $("html").niceScroll({ 
+		        	scrollspeed: 120, // scrolling speed
+        			mousescrollstep: 80,
+        			cursorborder: "none"
+        		});
+        		$("[href='#intro']").click(function(){
+					$("html,body").animate({scrollTop: $("#intro").offset().top}, 600);
+				  });
+				$("[href='#education']").click(function(){
+					$("html,body").animate({scrollTop: $("#education").offset().top+1}, 600);
+				  });
+				$("[href='#works']").click(function(){
+					$("html,body").animate({scrollTop: $("#works").offset().top+1}, 600);
+				  });
+
+		    });
+		</script>
+	</body>
+
+</html>

@@ -1,0 +1,83 @@
+/*
+ * Main
+ */
+body {
+	background-color: #1b1c1d;
+}
+/*
+ * Menu
+ */
+#index .secondary.menu {
+	text-align: center;
+}
+
+#index .secondary.menu .item{
+	margin-top: 1em;
+}
+
+#index .secondary.menu .item.active{
+	background-color: rgb(254, 239, 112);
+}
+
+#index .ui.menu.fixed {
+	position: fixed;
+	z-index: 9999;
+	margin: 0;
+	border: none;
+	width: 100%;
+}
+
+#index .ui.menu.circle {
+	background-color: #000000;
+}
+/*
+ * Segment
+ */
+#index .segment {
+	min-height: 775px;
+}
+
+#index .masthead {
+	margin: 0em;
+	margin-top: .1em;
+	padding-top: 5em;
+	padding-bottom: 5em;
+}
+
+#index .feature.segment {
+	margin: 0em;
+	padding: 6rem 0rem;
+	border-radius: 0;
+}
+
+#index #works {
+	padding-top: 8em;
+	z-index: 9998;
+}
+/*
+ * parallax
+ */
+#index .parallax.first {
+	position: fixed;
+	z-index: 9997;
+}
+
+#index .parallax.second {
+	position: inherit;
+	z-index: 9996;
+}
+
+#index .parallax.third {
+	position: fixed;
+	z-index: 9995;
+}
+/*
+ * @media
+ */
+@media screen and (max-width:768px){
+
+#index #summer {
+	right: 0;
+}
+
+}
