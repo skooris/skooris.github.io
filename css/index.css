@@ -62,8 +62,8 @@ textarea {
 	min-height: 775px;
 }
 
-#index #skills {
-	background-color: #1A1A1A;
+#index #skill {
+	margin-bottom: 5em;
 }
 
 #index #post {
@@ -75,7 +75,6 @@ textarea {
 	z-index: 9998;
 	position: relative;
 	width: 100%;
-	margin-bottom: 5em;
 }
 
 #index #resume {
