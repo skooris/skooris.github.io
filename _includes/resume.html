@@ -1,9 +1,15 @@
 <div id ="resume" class="ui yellow segment">
     	<div  class="ui fluid form">
     		{% for post in site.posts %}
-		<div class="ui inverted inline field">
-			<label>[{{ post.date | date: "%Y" }}] {{ post.title }}</label>
-			<input type="text" value="{{ post.description }}">
+		<div class="ui inverted inline field">					
+			<div class="ui grid">
+			    <div class="four wide column">
+			      <label>[{{ post.date | date: "%Y" }}] {{ post.title }}</label>
+			    </div>
+			    <div class="twelve wide column">
+			      <textarea>{{ post.description }}</textarea>
+			    </div>
+			  </div>
 		</div>
 		  {% endfor %}
 	</div>
