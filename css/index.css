@@ -37,11 +37,12 @@ body {
  * Segment
  */
 #index .masthead {
-	margin: 0em;
-	margin-top: .1em;
-	padding-top: 5em;
-	padding-bottom: 5em;
-	min-height: 775px;
+	  margin: 0em;
+	  margin-top: .01em;
+	  padding-top: 5em;
+	  padding-bottom: 5em;
+	  min-height: 775px;
+	  border-radius: 0;
 }
 
 #index .feature.segment {
@@ -67,6 +68,7 @@ body {
 
 #index #resume {
 	margin-top: 42em;
+  	margin-left: 3em;
 }
 /*
  * parallax
