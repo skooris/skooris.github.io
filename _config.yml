@@ -9,3 +9,4 @@ github_username:  skooris
 
 # Build settings
 markdown: kramdown
+excerpt_separator: "<!--more-->"
