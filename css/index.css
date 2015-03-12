@@ -78,6 +78,7 @@ textarea {
 }
 
 #index #resume {
+	position: static;
 	margin-left: 3em;
 	margin-top: 60%;
   	background-color: #1A1A1A;
