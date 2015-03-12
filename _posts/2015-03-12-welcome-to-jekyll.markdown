@@ -3,11 +3,11 @@ layout: post
 title:  "任团总支美编部副部长"
 date:   2014-03-12 14:47:02
 description: "负责学院活动宣传、院刊制作、微信推广"
-tags: Intro
+tags: Resume
 image: http://skooris.github.io/img/avatar.png
-categories: jekyll update
+categories: Resume
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+负责学院活动宣传、院刊制作、微信推广
 <!--more-->
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
