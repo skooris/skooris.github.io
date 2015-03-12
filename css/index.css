@@ -139,6 +139,12 @@ textarea {
 
 }
 
+@media screen and (max-width:1040px){
+
+#index #resume {
+	margin-top: 60%;
+}
+}
 @media screen and (max-width:1920px){
 
 #index #resume {
