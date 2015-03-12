@@ -6,6 +6,7 @@ description: "负责学院活动宣传、院刊制作、微信推广"
 tags: showcases
 image: http://skooris.github.io/img/avatar.png
 categories: works
+excerpt_separator: <!--more-->
 ---
 You’ll find most of my works here.
 <!--more-->
