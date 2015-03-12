@@ -46,7 +46,7 @@ body {
 
 #index .feature.segment {
 	margin: 0em;
-	padding: 6rem 0rem;
+	padding: 0em;
 	border-radius: 0;
 }
 
@@ -57,6 +57,10 @@ body {
 /*
  * parallax
  */
+ #index .parallax.nav{
+ 	  z-index: 9998;
+  	  margin-left: 38em;
+ }
 #index .parallax.first {
 	position: fixed;
 	z-index: 9997;
