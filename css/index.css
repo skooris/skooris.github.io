@@ -54,9 +54,12 @@ body {
 	min-height: 775px;
 }
 
-#index #works {
-	padding-top: 8em;
-	z-index: 9998;
+#index #skills {
+	min-height: 775px;
+	margin-top: .1em;
+	padding-top: 5em;
+	padding-bottom: 5em;
+	background-color: rgba(0,0,0,0) !important;
 }
 /*
  * parallax
