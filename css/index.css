@@ -7,7 +7,7 @@ body {
 label {
 	color: #FFFFFF !important;
 }
-input {
+textarea {
 	width: 80% !important;
 	height: 5em !important;
   	min-height: 0 !important;
