@@ -6,6 +6,7 @@ description: "负责学院活动宣传、院刊制作、微信推广"
 tags: Resume
 image: http://skooris.github.io/img/avatar.png
 categories: Resume
+excerpt_separator: <!--more-->
 ---
 负责学院活动宣传、院刊制作、微信推广
 <!--more-->
