@@ -90,7 +90,7 @@ body {
 
 #index .parallax.fourth {
 	width: 100%;
-	position: inherit;
+	position: absolute;
 	z-index: 9997;
 }
 /*
