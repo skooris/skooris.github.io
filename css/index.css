@@ -33,9 +33,6 @@ body {
 	width: 100%;
 }
 
-#index .ui.menu.circle {
-	background-color: #000000;
-}
 /*
  * Segment
  */
@@ -55,7 +52,11 @@ body {
 }
 
 #index #skills {
+	background-color: #1A1A1A;
+}
 
+#index #post {
+	z-index: 9998;
 }
 /*
  * parallax
@@ -83,6 +84,7 @@ body {
 }
 
 #index .parallax.fourth {
+	width: 100%;
 	position: inherit;
 	z-index: 9998;
 }
