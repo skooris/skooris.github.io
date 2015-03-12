@@ -4,6 +4,9 @@
 body {
 	background-color: #FFFFFF;
 }
+.ui.inverted.field {
+	color: #FFFFFF;
+}
 /*
  * Menu
  */
