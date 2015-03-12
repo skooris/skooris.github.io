@@ -56,9 +56,9 @@ body {
 
 #index #skills {
 	min-height: 775px;
-	margin-top: .1em;
-	padding-top: 5em;
-	padding-bottom: 5em;
+	margin: 0em;
+	padding: 0em;
+	border-radius: 0;
 	background-color: #feef70 !important;
 }
 /*
