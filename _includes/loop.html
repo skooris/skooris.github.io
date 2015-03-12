@@ -7,7 +7,7 @@
     </div>
     <div class="content">
       <div class="summary">
-        <a>{{ site.github_username }}</a> {{ post.title }}
+        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> by {{ site.github_username }}
         <div class="date">
           {{ post.date | date: "%b %-d, %Y" }}
         </div>
