@@ -21,6 +21,10 @@ body {
 	background-color: rgb(254, 239, 112);
 }
 
+.ui.menu.fixed, .ui.menu.fixed .item:first-child, .ui.menu.fixed .item:last-child {
+  border-radius: 100em !important; 
+}
+
 #index .ui.menu.fixed {
 	position: fixed;
 	z-index: 9999;
