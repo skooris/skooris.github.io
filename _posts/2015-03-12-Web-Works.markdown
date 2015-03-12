@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Web works"
-date:   2015-03-12 17:52:07
+title:  "任软件学院社网络部副部长"
+date:   2014-03-12 14:47:02
+description: 负责学院活动宣传、院刊制作、微信推广
 tags: showcases
 image: http://skooris.github.io/img/avatar.png
 categories: works

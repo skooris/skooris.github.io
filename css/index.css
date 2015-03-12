@@ -66,13 +66,12 @@ label {
 
 #index .resume {
 	z-index: 9998;
-	position: absolute;
+	position: relative;
 	width: 100%;
 }
 
 #index #resume {
-	margin-top: 42em;
-  	margin-left: 3em;
+	margin-top: 60%;
   	background-color: #1A1A1A;
   	box-shadow: 0 0 0 1px rgba(39, 41, 43, 0),0 1px 4px 0 rgba(0, 0, 0, 0.5);
 }
