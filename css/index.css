@@ -62,6 +62,11 @@ body {
 
 #index .resume {
 	z-index: 9998;
+	position: absolute;
+}
+
+#index #resume {
+	margin-top: 42em;
 }
 /*
  * parallax
