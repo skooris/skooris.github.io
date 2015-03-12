@@ -2,7 +2,7 @@
  * Main
  */
 body {
-	background-color: #1b1c1d;
+	background-color: #FFFFFF;
 }
 /*
  * Menu
@@ -55,9 +55,7 @@ body {
 }
 
 #index #skills {
-	background-image: url(./img/skill.png);
-	background-repeat: no-repeat;
-	background-size: cover;
+
 }
 /*
  * parallax
