@@ -80,7 +80,6 @@ textarea {
 #index #resume {
 	position: static;
 	margin-left: 3em;
-	margin-top: 60%;
   	background-color: #1A1A1A;
   	box-shadow: 0 0 0 1px rgba(39, 41, 43, 0),0 1px 4px 0 rgba(0, 0, 0, 0.5);
 }
@@ -136,6 +135,22 @@ textarea {
 
 #index #summer {
 	right: 0;
+}
+
+}
+
+@media screen and (max-width:1920px){
+
+#index #resume {
+	margin-top: 60%;
+}
+
+}
+
+@media screen and (min-width:1920px){
+
+#index #resume {
+	margin-top: 74%;
 }
 
 }
