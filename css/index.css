@@ -16,6 +16,8 @@ body {
 }
 
 #index .secondary.menu .item.active{
+	border-radius: 100em;
+	padding: 1.2em;
 	background-color: rgb(254, 239, 112);
 }
 
