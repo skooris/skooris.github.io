@@ -8,9 +8,12 @@ label {
 	color: #FFFFFF !important;
 }
 textarea {
-	width: 80%;
-	background-color: #000000;
-	color: #FFFFFF;
+	width: 80% !important;
+	height: 5em !important;
+  	min-height: 0 !important;
+	background-color: #000000 !important;
+	color: #FFFFFF !important;
+	resize: none;
 }
 /*
  * Menu
