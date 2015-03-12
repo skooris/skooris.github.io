@@ -56,14 +56,18 @@ body {
 }
 
 #index #post {
-	z-index: 9998;
+	z-index: 9997;
 	margin-top: -1em;
+}
+
+#index .resume {
+	z-index: 9998;
 }
 /*
  * parallax
  */
  #index .parallax.nav{
- 	z-index: 9998;
+ 	z-index: 9997;
   	width: 55%;
   	padding-left: 15%;
  }
@@ -71,23 +75,23 @@ body {
 	margin-top: 2em;
   	margin-left: 1em;
 	position: fixed;
-	z-index: 9997;
+	z-index: 9996;
 }
 
 #index .parallax.second {
 	position: inherit;
-	z-index: 9998;
+	z-index: 9997;
 }
 
 #index .parallax.third {
 	position: fixed;
-	z-index: 9995;
+	z-index: 9994;
 }
 
 #index .parallax.fourth {
 	width: 100%;
 	position: inherit;
-	z-index: 9998;
+	z-index: 9997;
 }
 /*
  * @media
