@@ -59,7 +59,7 @@ body {
 	margin-top: .1em;
 	padding-top: 5em;
 	padding-bottom: 5em;
-	background-color: rgba(0,0,0,0) !important;
+	background-color: #feef70 !important;
 }
 /*
  * parallax
@@ -84,6 +84,11 @@ body {
 #index .parallax.third {
 	position: fixed;
 	z-index: 9995;
+}
+
+#index .parallax.fourth {
+	position: inherit;
+	z-index: 9998;
 }
 /*
  * @media
