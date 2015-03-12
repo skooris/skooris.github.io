@@ -58,8 +58,9 @@ body {
  * parallax
  */
  #index .parallax.nav{
- 	  z-index: 9998;
-  	  margin-left: 38em;
+ 	z-index: 9998;
+  	width: 55%;
+  	padding-left: 15%;
  }
 #index .parallax.first {
 	position: fixed;
