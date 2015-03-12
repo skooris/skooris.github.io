@@ -2,7 +2,7 @@
 layout: post
 title:  "任团总支美编部副部长"
 date:   2014-03-12 14:47:02
-description: 负责学院活动宣传、院刊制作、微信推广
+description: "负责学院活动宣传、院刊制作、微信推广"
 tags: Intro
 image: http://skooris.github.io/img/avatar.png
 categories: jekyll update
