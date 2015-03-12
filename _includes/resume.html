@@ -3,7 +3,7 @@
     		{% for post in site.posts %}
 		<div class="ui inverted inline field">
 			<label>[{{ post.date | date: "%Y" }}] {{ post.title }}</label>
-			<input type="text" value="{{ post.description }}">
+			<textarea>{{ post.description }}</textarea>
 		</div>
 		  {% endfor %}
 	</div>

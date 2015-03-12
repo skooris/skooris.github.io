@@ -7,6 +7,11 @@ body {
 label {
 	color: #FFFFFF !important;
 }
+textarea {
+	width: 80%;
+	background-color: #000000;
+	color: #FFFFFF;
+}
 /*
  * Menu
  */
