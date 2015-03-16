@@ -1,0 +1,18 @@
+<div class="ui cards">
+{% for post in site.posts %}
+  <div class="card">
+    <a class="image">
+      <img src="{{ post.image }}">
+    </a>
+    <div class="content">
+      <a class="header">{{ post.title }}</a>
+      <div class="meta">
+        <a>{{ post.date | date: "%b %-d, %Y" }}</a>
+      </div>
+      <div class="description">
+        {{ post.excerpt }}
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+  </div>
