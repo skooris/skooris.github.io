@@ -5,7 +5,7 @@
       <img src="{{ post.image }}">
     </a>
     <div class="content">
-      <a class="header">{{ post.title }}</a>
+      <a href="{{ post.url | prepend: site.baseurl }}" class="header">{{ post.title }}</a>
       <div class="meta">
         <a>{{ post.date | date: "%b %-d, %Y" }}</a>
       </div>
