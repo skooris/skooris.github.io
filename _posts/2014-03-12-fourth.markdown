@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "厦门大学本科教育保障体系网站"
+date:   2014-03-12 14:47:02
+description: "厦门大学本科教育保障体系网站首页设计图"
+tags: showcases
+image: http://skooris.github.io/img/cases/[2014]厦门大学本科教育保障体系网站首页设计图.jpg
+categories: works
+---
+厦门大学本科教育保障体系网站首页设计图
+

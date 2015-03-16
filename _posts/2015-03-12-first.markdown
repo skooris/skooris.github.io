@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "厦门大学航空系网站"
+date:   2015-03-12 14:47:02
+description: "负责学院活动宣传、院刊制作、微信推广"
+tags: showcases
+image: http://skooris.github.io/img/cases/[2015]厦门大学航空系网站首页设计图.jpg
+categories: works
+---
+厦门大学航空系网站首页设计图
+
