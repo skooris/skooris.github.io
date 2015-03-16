@@ -8,4 +8,3 @@ image: http://skooris.github.io/img/cases/[2015]厦门大学航空系网站首�
 categories: works
 ---
 厦门大学航空系网站首页设计图
-
