@@ -125,7 +125,7 @@ textarea {
 
 #index .parallax.fourth {
 	width: 100%;
-	position: absolute;
+	position: relative;
 	z-index: 9997;
 }
 /*
