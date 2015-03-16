@@ -1,8 +1,8 @@
 <div class="ui cards">
 {% for post in site.posts %}
   <div class="card">
-    <a class="image">
-      <img src="{{ post.image }}" data-lightbox="case-images" data-title="{{ post.description }}">
+    <a class="image" href="{{ post.image }}" data-lightbox="case-images" data-title="{{ post.description }}">
+      <img src="{{ post.image }}">
     </a>
     <div class="content">
       <a class="header">{{ post.title }}</a>
