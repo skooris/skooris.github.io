@@ -2,7 +2,7 @@
 {% for post in site.posts %}
   <div class="card">
     <a class="image">
-      <img src="{{ post.image }}">
+      <img src="{{ post.image }}" data-lightbox="case-images" data-title="{{ post.description }}">
     </a>
     <div class="content">
       <a class="header">{{ post.title }}</a>
