@@ -4,7 +4,7 @@ title:  "简历设计"
 date:   2015-03-12 14:47:02
 description: "Summer's CV Desgin"
 tags: showcases
-image: http://skooris.github.io/img/cases/[2015]简历2.jpg
+image: http://7xid0v.com1.z0.glb.clouddn.com/简历2.jpg
 categories: works
 ---
 Summer's CV Desgin
