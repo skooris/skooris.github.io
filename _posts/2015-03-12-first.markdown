@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "厦门大学航空系网站"
-date:   2015-03-12 14:47:02
-description: "负责学院活动宣传、院刊制作、微信推广"
-tags: showcases
-image: http://skooris.github.io/img/cases/[2015]厦门大学航空系网站首页设计图.jpg
+title:  "校园服务类APP《校园邦》"
+date:   2015-09-20 01:18:02
+description: "这是一款集校园生活资讯为一体的校园移动应用程序"
+tags: 项目展示
+image: https://www.behance.net/gallery/29658259/APP
 categories: works
 ---
-厦门大学航空系网站首页设计图
+校园服务类APP《校园邦》
