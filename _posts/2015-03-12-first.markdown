@@ -4,7 +4,7 @@ title:  "校园服务类APP《校园邦》"
 date:   2015-09-20 01:18:02
 description: "这是一款集校园生活资讯为一体的校园移动应用程序"
 tags: 项目展示
-image: https://www.behance.net/gallery/29658259/APP
+image: https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e62b8629658259.55fd981f44f89.jpg
 categories: works
 ---
 校园服务类APP《校园邦》
