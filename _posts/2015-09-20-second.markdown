@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "简历"
+date:   2015-09-20 18:12:02
+description: "简历"
+tags: resume
+image: http://skooris.github.io/img/cases/肖夏的简历.jpg
+categories: resume
+---
+简历
