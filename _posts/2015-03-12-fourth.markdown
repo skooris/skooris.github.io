@@ -3,7 +3,7 @@ layout: post
 title:  "视觉设计产品"
 date:   2015-03-12 14:47:02
 description: "某个网络科技有限公司实习视觉设计产品"
-tags: showcases
+tags: 视觉设计
 image: http://skooris.github.io/img/cases/[2015]某个网络科技有限公司实习视觉设计产品2.jpg
 categories: works
 ---
