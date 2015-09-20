@@ -4,7 +4,8 @@ title:  "交互设计、界面设计"
 date:   2015-09-20 21:47:02
 description: "移动端产品《will》"
 tags: 项目展示
-image: http://skooris.github.io/img/cases/will.jpg
+image: http://skooris.github.io/img/cases/will2.jpg
 categories: works
 ---
 移动端产品《will》
+
